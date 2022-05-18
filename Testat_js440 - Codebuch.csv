@@ -3,13 +3,13 @@ Codebuch,
 ,
 Wert,Bezeichnung
 edgelist,
-from,von welchem Verein und Land kommt der Spieler 
+from,von welchem Verein und Land kommt der Spieler und Rückennummer
 to ,ID des Spielers (Rückennummer)
 weight,"Transfersumme in 100.000 Euro Schritten, gerundet falls abweichend."
 season,transferfenster. nur erste Jahreszahl des Fensters als JJJJ verwenden.
 ,
 nodelist,
-id,Rückennumer oder Vereinsname
+id,Rückennumer, Nationalität oder Vereinsname
 name,Spieler oder Vereinsname
 country,Land
 type1,Spieler 
